@@ -41,8 +41,8 @@ module.exports = {
                 reason: 'Routine maintenance',
                 durationValue: 3,
                 status: 'PENDING',
-                ownerId: '7ecba0d6-bee7-448d-9667-df59afc0e0c0',
-                userId: 'a44be52f-1408-4408-ba65-f43aae83aebb',
+                ownerId: '6aba4666-4e03-433b-8cb8-aeeac331ca39',
+                userId: '11fc2ac1-8385-46bf-af8c-8b145981e104',
                 createdAt: new Date(),
                 updatedAt: new Date()
             },
@@ -83,8 +83,8 @@ module.exports = {
                 reason: 'Leak repair',
                 durationValue: 5,
                 status: 'ONGOING',
-                ownerId: 'f12f88d5-f1fa-4dc7-a98b-f5c8d87e76aa',
-                userId: '7ecba0d6-bee7-448d-9667-df59afc0e0c0',
+                ownerId: '7e84f77d-df1b-442c-8f83-fd67be8286b6',
+                userId: '6aba4666-4e03-433b-8cb8-aeeac331ca39',
                 createdAt: new Date(),
                 updatedAt: new Date()
             }
