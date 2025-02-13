@@ -9,8 +9,6 @@
     "build": "tsc --project ./",
     "start": "npm run build && node ./build/app.js",
     "start:dev": "npx nodemon",
-    "db": "mysql -h 127.0.0.1 -u root -pP@ssword123 simplefi",
-    "db:prod": "mysql -h db-mysql-lon1-sfb-do-user-8115070-0.b.db.ondigitalocean.com -P 25060 -u SFB-Tester -pAVNS_PgVpZa6iJeA5u_jRefH sfb-db-test",
     "seed:db": "sequelize db:seed:all"
   },
   "author": "",
